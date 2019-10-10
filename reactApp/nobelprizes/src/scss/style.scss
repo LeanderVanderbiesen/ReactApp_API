@@ -1,0 +1,86 @@
+
+h1{
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.h1-detail{
+  margin-left: 0;
+}
+.list-group{
+  width: 400px;
+  margin-bottom: 10px;
+}
+
+.list-group li{
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar{
+  background-color: #1a1a1a;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+.navbar-nav a{
+  color: white;
+  margin-left: 30px;
+}
+.navbar-brand{
+  position: absolute;
+  left: 0;
+  font-size: 1.5rem;
+  margin-left: 10px;
+  color: darkgoldenrod;
+  &:hover{
+    color: darkgoldenrod;
+  }
+}
+
+.navbar-nav{
+  display: flex;
+  flex-direction: row;
+}
+
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+
+}
+.btn-primary{
+ margin-left: 190px;
+}
+
+.controls{
+  margin-left: 115px;
+  color: black;
+  margin-top: 20px;
+
+}
+.error{
+  color: red;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1a1a1a;
+  height: 25px;
+  text-align: center;
+}
+footer a{
+  color: white;
+  &:hover{
+    color: darkgoldenrod;
+    text-decoration: none;
+  }
+}
+
+
+

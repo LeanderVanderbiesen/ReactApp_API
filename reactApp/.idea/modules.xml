@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Api/.idea/Api.iml" filepath="$PROJECT_DIR$/../Api/.idea/Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reactApp.iml" filepath="$PROJECT_DIR$/.idea/reactApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../front-end/studenten/.idea/studenten.iml" filepath="$PROJECT_DIR$/../../front-end/studenten/.idea/studenten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../front-end/students_api/.idea/students_api.iml" filepath="$PROJECT_DIR$/../../front-end/students_api/.idea/students_api.iml" />
+    </modules>
+  </component>
+</project>
